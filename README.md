@@ -19,4 +19,4 @@ I'm currently pursuing my BSc in Computer Science at the University of Lethbridg
 
 I mostly know C++, as well as hints of Python, PHP, HTML, and SQL. 
 
-Check out my [Instagram](https://www.instagram.com/kaleb.calverley/), connect with me on [LinkedIn](https://www.linkedin.com/in/kalebcalverley/), add me on [Discord](https://discordapp.com/users/354313486848753674), or listen to something from my [Spotify Profile](https://open.spotify.com/user/21ekjkfqqse4t5seonzoix7mq?si=73d9b2de76e940a1)!
+Check out my [Instagram](https://www.instagram.com/kaleb.calverley/), connect with me on [LinkedIn](https://www.linkedin.com/in/kalebcalverley/), add me on [Discord](https://discordapp.com/users/354313486848753674), or listen to a playlist from my [Spotify Profile](https://open.spotify.com/user/21ekjkfqqse4t5seonzoix7mq?si=73d9b2de76e940a1)!
